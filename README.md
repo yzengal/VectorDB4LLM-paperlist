@@ -17,17 +17,48 @@
 
 ### CIKM
 
-1. **xxx**
+1. **Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models.**
+*Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, Ge Fan, Dayiheng Liu, Dongmei Zhang, Zhixu Li, Yanghua Xiao.* CIKM 2023. [paper](https://dl.acm.org/doi/10.1145/3583780.3614905)
 
-1. **xxx**
+2. **AI in the Gray: Exploring Moderation Policies in Dialogic Large Language Models vs. Human Answers in Controversial Topics.**
+*Vahid Ghafouri, Vibhor Agarwal, Yong Zhang, Nishanth Sastry, Jose M. Such, Guillermo Suarez-Tangil.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3614777)
 
+3. **Large Language Models as Zero-Shot Conversational Recommenders.**
+*Zhankui He, Zhouhang Xie, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Prasad Majumder, Nathan Kallus, Julian J. McAuley.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3614949)
+
+4. **Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulators to Enhance Dialogue System.**
+*Zhiyuan Hu, Yue Feng, Anh Tuan Luu, Bryan Hooi, Aldo Lipani.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615220)
+
+5. **Comparing Fine-Tuned Transformers and Large Language Models for Sales Call Classification.**
+*Roy Eisenstadt, Abedelkader Asi, Royi Ronen.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615509)
+
+6. **Application and Evaluation of Large Language Models for the Generation of Survey Questions.**
+*Antonio Maiorino, Zoe Padgett, Chun Wang, Misha Yakubovskiy, Peng Jiang.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615506)
+
+7. **Harnessing GPT for Topic-Based Call Segmentation in Microsoft Dynamics 365 Sales.**
+*Itzik Malkiel, Uri Alon, Yakir Yehuda, Shahar Keren, Oren Barkan, Royi Ronen, Noam Koenigstein.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615508)
+
+8. **Unleashing the Power of Large Language Models for Legal Applications.**
+*Dell Zhang, Alina Petrova, Dietrich Trautmann, Frank Schilder.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615993)
+
+9. **A Test Collection of Synthetic Documents for Training Rankers: ChatGPT vs. Human Experts.**
+*Arian Askari, Mohammad Aliannejadi, Evangelos Kanoulas, Suzan Verberne.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615111)
+
+10. **Workshop on Enterprise Knowledge Graphs using Large Language Models.**
+*Rajeev Gupta, Srinath Srinivasa.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615301)
+
+11. **Workshop On Large Language Models' Interpretability and Trustworthiness (LLMIT).**
+*Tulika Saha, Debasis Ganguly, Sriparna Saha, Prasenjit Mitra.* CIKM 2023. [paper](https://doi.org/10.1145/3583780.3615311)
 
 ### VLDB
 
 
 
 ### ACM CSUR
-    
+
+1. **Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey.**
+*Bonan Min, Hayley Ross, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heintz, Dan Roth.* CSUR Volume 56. [paper](https://doi.org/10.1145/3605943)
+
 ## Tutorials and Keynotes
 
 ### Differential Privacy
