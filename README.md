@@ -52,12 +52,34 @@
 
 ### VLDB
 
+1. **Pre-trained Embeddings for Entity Resolution: An Experimental Analysis.**
+*Alexandros Zeakis, George Papadakis, Dimitrios Skoutas, Manolis Koubarakis* VLDB Volume 16. [paper](doi.org/10.14778/3598581.3598594)
 
+2. **DeepJoin: Joinable Table Discovery with Pre-trained Language Models.**
+*Yuyang Dong, Chuan Xiao, Takuma Nozawa, Masafumi Enomoto, Masafumi Oyamada* VLDB Volume 16. [paper](https://doi.org/10.48550/arXiv.2212.07588)
+
+3. **How Large Language Models Will Disrupt Data Management.**
+*Raul Castro Fernandez, Aaron J. Elmore, Michael J. Franklin, Sanjay Krishnan, Chenhao Tan* VLDB Volume 16.  [paper](https://doi.org/10.14778/3611479.3611527)
+
+4. **Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent.**
+*Xiaonan Nie, Yi Liu, Fangcheng Fu, Jinbao Xue, Dian Jiao, Xupeng Miao, Yangyu Tao, Bin Cui* VLDB Volume 16. [paper](https://doi.org/10.48550/arXiv.2303.02868)
+
+5. **Lingua Manga: A Generic Large Language Model Centric System for Data Curation.**
+*Zui Chen, Lei Cao, Sam Madden* VLDB Volume 16. [paper](https://doi.org/10.48550/arXiv.2306.11702)
+
+6. **Demonstrating GPT-DB: Generating Query-Specific and Customizable Code for SQL Processing with GPT-4.**
+*Immanuel Trummer* VLDB Volume 16. [paper](https://doi.org/10.14778/3611540.3611630)
 
 ### ACM CSUR
 
 1. **Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey.**
 *Bonan Min, Hayley Ross, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heintz, Dan Roth.* CSUR Volume 56. [paper](https://doi.org/10.1145/3605943)
+
+2. **A Survey of Joint Intent Detection and Slot Filling Models in Natural Language Understanding.** 
+*Henry Weld, Xiaoqi Huang, Siqu Long, Josiah Poon, Soyeon Caren Han* CSUR Volume 55. [paper](https://doi.org/10.1145/3547138)
+
+3. **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing.**
+*Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig* CSUR Volume 55. [paper](https://doi.org/10.1145/3560815)
 
 ## Tutorials and Keynotes
 
